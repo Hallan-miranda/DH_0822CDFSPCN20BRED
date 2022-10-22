@@ -75,3 +75,5 @@ const listarFilmesComLongaDuracao = () => {
 
   //alterações myllena
   console.log('Olá')
+
+  consoel.log('Hello Word!')
